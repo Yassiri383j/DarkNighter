@@ -10,3 +10,7 @@ Version 1.1.0
 - Fixed a bug that makes links unreadable
 - Recolored the online status (for web/PC only) 
 * Mobile in the next update...
+* 
+Version 1.1.5
+- Recolored the online status for mobile!
+- Fixed some displaying glitches
