@@ -1,5 +1,5 @@
 Version 1.0.0
-Theme has been created successfully 
+- Theme has been created successfully 
 - Added the basic things, like wallpaper, color etc
 
 Version 1.0.5
