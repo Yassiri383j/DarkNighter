@@ -2,7 +2,7 @@
     "manifest": {
         "author": "! YassirXGY#9999",
         "name": "DarkNighter",
-        "version": "1.0.0",
+        "version": "1.1.5",
         "updater": "https:\/\/raw.githubusercontent.com\/Yassiri383j\/DarkNighter\/main\/DarkNighter.json"
     },
     "background": {},
@@ -10,7 +10,7 @@
         "*": "https:\/\/cdn.discordapp.com\/attachments\/793213807571763230\/910191800793309255\/ComicNeue-Regular.ttf"
     },
     "simple_colors": {
-        "mention_highlight": 973120255,
+        "mention_highlight": 976647062,
         "statusbar": -1694091180,
         "background": -16510439,
         "active_channel": -16291391,
@@ -27,8 +27,12 @@
         "brand_new_230": -15177321,
         "link": -15494441,
         "primary_dark_300": -8672314,
-        "primary_700": -16376792
+        "primary_700": -16376792,
+        "uikit_btn_bg_color_selector_red": -12933922,
+        "uikit_btn_bg_color_selector_green": -1157585153
     },
-    "drawable_tints": {},
+    "drawable_tints": {
+        "ic_mobile": -1157585153
+    },
     "raws": {}
 }
