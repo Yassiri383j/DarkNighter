@@ -4,7 +4,7 @@ Version 1.0.0
 
 Version 1.0.5
 - Added a color to the active channel that you are looking at
-- Added a custom font to the theme
+- Added a custom font to the theme (Currently disabled due to a bug in themer plugin) 
 
 Version 1.1.0
 - Fixed a bug that makes links unreadable
@@ -14,14 +14,15 @@ Version 1.1.0
 Version 1.1.5
 - Recolored the online status for mobile!
 - Fixed some displaying glitches
+
 Version 2.0.0
-- Some icons has been recolored
+- Some icons has been recolored!
 - Some badges now are recolored :)
 - NEW: Custom sounds!!!
 Currently this version has:
-User_join
-User_left
-User_mute
-User_unmute
+-User_join
+-User_left
+-User_mute
+-User_unmute
 
 More will come very soon.. 
