@@ -24,5 +24,7 @@ Currently this version has:
 - User_left
 - User_mute
 - User_unmute
-
+(if you want to disable these custom sound :
+- Go to plugins > themer > settings 
+- Turn off custom sound 
 More will come very soon.. 
