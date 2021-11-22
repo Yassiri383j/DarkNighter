@@ -20,9 +20,9 @@ Version 2.0.0
 - Some badges now are recolored :)
 - NEW: Custom sounds!!!
 Currently this version has:
--User_join
--User_left
--User_mute
--User_unmute
+- User_join
+- User_left
+- User_mute
+- User_unmute
 
 More will come very soon.. 
