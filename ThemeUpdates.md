@@ -14,3 +14,14 @@ Version 1.1.0
 Version 1.1.5
 - Recolored the online status for mobile!
 - Fixed some displaying glitches
+Version 2.0.0
+- Some icons has been recolored
+- Some badges now are recolored :)
+- NEW: Custom sounds!!!
+Currently this version has:
+User_join
+User_left
+User_mute
+User_unmute
+
+More will come very soon.. 
