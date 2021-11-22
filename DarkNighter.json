@@ -32,7 +32,27 @@
         "uikit_btn_bg_color_selector_green": -1157585153
     },
     "drawable_tints": {
-        "ic_mobile": -1157585153
+        "ic_mobile": -1157585153,
+        "ic_channel_announcements": -8672314,
+        "ic_channel_announcements_16dp": -10317139,
+        "ic_channel_announcements_locked": -8672314,
+        "ic_channel_announcements_nsfw": -8672314,
+        "ic_channel_announcements_thread": -8672314,
+        "ic_profile_badge_verified_developer_32dp": -1157585153,
+        "ic_hypesquad_house3_32dp": -1157585153,
+        "ic_hypesquad_house1_32dp": -1157585153,
+        "ic_hypesquad_house2_32dp": -1157585153,
+        "ic_profile_badge_hypesquad_32dp": -1157585153,
+        "ic_sticker_icon_24dp": -1157585153,
+        "img_stickers_search_empty_90dp": -16635842,
+        "ic_add_friend_plus": -8672314,
+        "ic_members_12dp": -8672314,
+        "ic_theme_24dp": -1157585153
     },
-    "raws": {}
+    "raws": {
+        "user_join": "https:\/\/cdn.discordapp.com\/attachments\/912333697544503296\/912441571465646190\/DarkNighter_user_join.mp3",
+        "unmute": "https:\/\/cdn.discordapp.com\/attachments\/912333697544503296\/912451080821039186\/DarkNighter_user_unmute.mp3",
+        "mute": "https:\/\/cdn.discordapp.com\/attachments\/912333697544503296\/912451080590344254\/DarkNighter_user_mute.mp3",
+        "user_leave": "https:\/\/cdn.discordapp.com\/attachments\/912333697544503296\/912455444298084382\/DarkNighter_user_left.mp3"
+    }
 }
