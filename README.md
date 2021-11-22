@@ -7,4 +7,5 @@ Requirements:
 - Themer plugin installed 
 - Chat & Settings transparency enabled
 - Font hook enabled
-- Dark mode enabled (AMOLED mode disabled for better results) 
+- Dark mode enabled (AMOLED mode disabled for better results)
+- Enable Sound hook (custom sound) 
